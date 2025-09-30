@@ -5,4 +5,4 @@ title: About
 
 ## About
 
-Hi, nice to meet you.
+Hi, My name is Newworld Ogaga nice to meet you.
